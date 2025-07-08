@@ -5,7 +5,7 @@ This project is an **E-Commerce Management System** created using **MySQL**. It 
 
 
 
-## 💻 Tech Stack
+# Tools used
 
 - MySQL 
 - MySQL Workbench / VS Code Terminal
@@ -24,7 +24,7 @@ The database consists of the following main tables:
 5. **OrderItems** – Items within each order (with quantity & price)
 6. **Payments** – Payment details (amount, method, status)
 
----
+
 
 # Features
 
