@@ -56,6 +56,7 @@ The database consists of the following main tables:
 
 # Author
 Sonali Tale
+
 📧 Email: talesonali03@example.com
 
 🔗 GitHub: sonalitale
