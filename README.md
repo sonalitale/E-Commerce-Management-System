@@ -55,6 +55,8 @@ The database consists of the following main tables:
 ![image alt](https://github.com/sonalitale/E-Commerce-Management-System/blob/a01d89556371355ebb2334b335cd4d519a113818/ER%20Diagram.sql.png)
 
 # Author
-
+Sonali Tale
+📧 Email: talesonali03@example.com
+🔗 GitHub: sonalitale
 
 
