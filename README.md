@@ -52,5 +52,9 @@ The database consists of the following main tables:
 
 # Screenshots
 
+![image alt](https://github.com/sonalitale/E-Commerce-Management-System/blob/a01d89556371355ebb2334b335cd4d519a113818/ER%20Diagram.sql.png)
+
+# Author
+
 
 
